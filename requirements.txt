@@ -1,0 +1,6 @@
+gradio
+pypdf
+sentence-transformers
+scikit-learn
+numpy
+groq
